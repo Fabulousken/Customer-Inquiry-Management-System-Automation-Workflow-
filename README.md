@@ -1,12 +1,21 @@
 Problem:
+
 Businesses receive large volumes of emails daily, including:
+
 -Sales inquiries
+
 -Support requests
+
 -General questions
+
 Manually sorting and responding to these emails:
+
 -Wastes time
+
 -Delays response
+
 -Reduces productivity
+
 
 Solution:
 Built an automated workflow using Zapier + AI (ChatGPT) to:
